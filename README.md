@@ -1,8 +1,8 @@
 # Object-Oriented Programming (C++)
 
-> 🎯 OOP course assignments at SCE College of Engineering
-> 
-> **Language:** C++ | **Topics:** Classes, Operators, Inheritance, Polymorphism, Templates, STL
+🎯 OOP course assignments at SCE College of Engineering
+ 
+**Language:** C++ | **Topics:** Classes, Operators, Inheritance, Polymorphism, Templates, STL
 
 ---
 
@@ -12,11 +12,11 @@ This repository contains all programming assignments from the Object-Oriented Pr
 
 ## 🗂️ Project Structure
 ```
-├── hw1_tictactoe_mynumber/
-├── hw2_operators_linkedlist/
-├── hw3_matchmaking/
-├── hw4_shapes_employees/
-└── hw5_bimap_stl/
+├── WH1_tictactoe_mynumber/
+├── HW2_operators_linkedlist/
+├── HW3_matchmaking/
+├── HW4_shapes_employees/
+└── HW5_bimap_stl/
 ```
 
 ---
