@@ -8,19 +8,19 @@
 
 ## 🗂️ Project Structure
 ```
-├── HW1/
+├── WH1_tictactoe_mynumber/
 │   ├── Q1_TicTacToe/
 │   ├── Q2_MyNumber/
 │   └── Q3_MyNumberStack/
-├── HW2/
+├── HW2_operators_linkedlist/
 │   ├── Q1_MyNumber/
 │   ├── Q2_LinkedList/
 │   └── Q3_MyMain/
-├── HW3_Matchmaking/
-├── HW4/
+├── HW3_matchmaking/
+├── HW4_shapes_employees/
 │   ├── Q2_Shapes/
 │   └── Q3_Employees/
-└── hw5_BiMap/
+└── HW5_bimap_st/
 ```
 
 ---
