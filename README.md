@@ -1,4 +1,4 @@
-# Object Oriented Programming (C++)
+# Object Oriented Programming
 
 🎯 OOP course assignments at SCE College of Engineering
  
